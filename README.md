@@ -1,6 +1,6 @@
 # 👋 Ahoj, jsem Vojta!
 
-![Banner](https://example.com/banner-image.jpg) <!-- Můžeš sem přidat vlastní banner -->
+![Logo](file:///C:/Users/vojta/Desktop/web3/vosoonecz.png) <!-- Můžeš sem přidat vlastní banner -->
 
 ## 🇨🇿 O mně
 Ahoj! Jsem nadšenec do technologií z České republiky, se zájmem o **3D tisk**, **programování** a **webový vývoj**. Svět počítačů a mobilních technologií mě fascinuje už od mala, a proto jsem se rozhodl začít tvořit vlastní aplikace a webové stránky.
