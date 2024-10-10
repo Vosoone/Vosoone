@@ -8,7 +8,7 @@ Ahoj! Jsem nadšenec do technologií z České republiky, se zájmem o **3D tisk
 🛠️ **Používané technologie:**
 - HTML5, CSS3, JavaScript (ES6+)
 - Node.js, Express.js
-- 3D tisk (modelování a tisk pomocí Fusion 360)
+- 3D tisk (modelování pomocí Fusion 360 a tisk)
 - Git & GitHub pro verzování a spolupráci
 
 🔭 **Aktuálně pracuji na:**
