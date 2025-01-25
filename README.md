@@ -19,7 +19,7 @@ Ahoj! Jsem nadšenec do technologií z České republiky, se zájmem o **3D tisk
 🔭 **Aktuálně pracuji na:**
 - Vývoji osobního webu **[vosoone.cz](https://vosoone.cz)** zaměřeného na technologie, 3D tisk a programování
 - Nástroji pro hodnocení výkonu počítačových komponent v hrách **PC Performance Evaluator**
-- **Kalkulačce ceny 3D modelů** s funkcí přizpůsobení parametrů tisku a přesného výpočtu nákladů (**[Odkaz na kalkulačku](https://vosoone.cz/3d-cena)**)
+- **Kalkulačce ceny 3D modelů** s funkcí přizpůsobení parametrů tisku a přesného výpočtu nákladů (**[Odkaz na kalkulačku](https://vosoone.cz/3dcalculator)**)
 
 ---
 
@@ -28,7 +28,7 @@ Ahoj! Jsem nadšenec do technologií z České republiky, se zájmem o **3D tisk
 ### 🌐 [Vosoone.cz](https://vosoone.cz)
 Osobní web zaměřený na technologie, 3D tisk a programování. Na této stránce sdílím své projekty, články a další zdroje spojené s mými zájmy.
 
-### 💰 [Kalkulačka ceny 3D modelů](https://vosoone.cz/3d-cena)
+### 💰 [Kalkulačka ceny 3D modelů](https://vosoone.cz/3dcalculator)
 Jednoduchý a přesný nástroj na výpočet nákladů spojených s 3D tiskem. Stačí zadat parametry tisku a kalkulačka vypočítá celkovou cenu včetně materiálu, energie a amortizace tiskárny.
 
 ---
