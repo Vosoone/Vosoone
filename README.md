@@ -9,17 +9,16 @@ Ahoj! Jsem nadšenec do technologií z České republiky, se zájmem o **3D tisk
 - HTML5, CSS3, JavaScript (ES6+)
 - Node.js, Express.js
 - React.js, Next.js
-- MongoDB, PostgreSQL
+- MongoDB, PostgreSQL, MySQL
 - 3D tisk (modelování pomocí Fusion 360 a tisk)
 - Git & GitHub pro verzování a spolupráci
-- Python pro analýzu dat a automatizaci
 - Tailwind CSS pro rychlé stylování
-- Figma pro návrh designů a prototypů
 
 🔭 **Aktuálně pracuji na:**
 - Vývoji osobního webu **[vosoone.cz](https://vosoone.cz)** zaměřeného na technologie, 3D tisk a programování
 - Nástroji pro hodnocení výkonu počítačových komponent v hrách **PC Performance Evaluator**
 - **Kalkulačce ceny 3D modelů** s funkcí přizpůsobení parametrů tisku a přesného výpočtu nákladů (**[Odkaz na kalkulačku](https://vosoone.cz/3dcalculator)**)
+- Webové stránce s informacemi o počasí **[vosoone.cz/pocasi](https://vosoone.cz/pocasi)**
 
 ---
 
@@ -31,21 +30,22 @@ Osobní web zaměřený na technologie, 3D tisk a programování. Na této strá
 ### 💰 [Kalkulačka ceny 3D modelů](https://vosoone.cz/3dcalculator)
 Jednoduchý a přesný nástroj na výpočet nákladů spojených s 3D tiskem. Stačí zadat parametry tisku a kalkulačka vypočítá celkovou cenu včetně materiálu, energie a amortizace tiskárny.
 
+### ☀️ [Počasí](https://vosoone.cz/pocasi)
+Webová stránka s informacemi o počasí.
+
 ---
 
 ## 🛠️ Nástroje a technologie, které používám
-| Technologie      | Popis                                          |
+| Technologie      | Popis                                          |
 |------------------|------------------------------------------------|
-| 🖥️ HTML5         | Tvorba strukturovaného obsahu na webu          |
-| 🎨 CSS3          | Stylování webových stránek a responzivní design |
-| ⚙️ JavaScript    | Dynamické a interaktivní prvky na webu          |
-| 🌐 Node.js       | Backendový vývoj aplikací                      |
-| ⚛️ React.js      | Tvorba uživatelských rozhraní                  |
-| 🛠️ Tailwind CSS  | Rychlé a moderní stylování                     |
-| 🗄️ MongoDB       | NoSQL databáze pro flexibilní ukládání dat     |
-| 🐍 Python        | Analýza dat a automatizace                     |
-| 🖌️ 3D tisk       | Navrhování a tisk modelů pomocí Fusion 360      |
-| 💾 Git & GitHub  | Verzování kódu a spolupráce na projektech       |
+| 🖥️ HTML5         | Tvorba strukturovaného obsahu na webu          |
+| 🎨 CSS3          | Stylování webových stránek a responzivní design |
+| ⚙️ JavaScript    | Dynamické a interaktivní prvky na webu          |
+| 🌐 MySQL         | Dotabáze pro systematické ukládání dat          |
+| 🛠️ Tailwind CSS  | Rychlé a moderní stylování                     |
+| 🗄️ MongoDB       | NoSQL databáze pro flexibilní ukládání dat     |
+| 🖌️ 3D tisk       | Navrhování a tisk modelů pomocí Fusion 360      |
+| 💾 Git & GitHub  | Verzování kódu a spolupráce na projektech       |
 
 ---
 
@@ -55,6 +55,7 @@ Jednoduchý a přesný nástroj na výpočet nákladů spojených s 3D tiskem. S
 - 🔍 [Discord server](https://discord.gg/uREdrVvfcs)
 - 🧊 [Printables](https://www.printables.com/@Vosoone_1929383)
 - 💰 [Kalkulačka ceny 3D modelů](https://vosoone.cz/3d-cena)
+- ☀️ [Počasí](https://vosoone.cz/pocasi)
 
 ---
 
