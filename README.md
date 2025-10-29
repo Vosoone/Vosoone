@@ -17,7 +17,7 @@ Mám rád čistý kód, přehlednou strukturu a rychlost. Občas se pouštím i 
 
 ### 🧠 Technologie
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,nodejs,git,vscode,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,nextjs,git,vscode,chatgpt,canva" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Mám rád čistý kód, přehlednou strukturu a rychlost. Občas se pouštím i 
 | Projekt | Popis | Odkaz |
 |----------|--------|--------|
 | 🌍 **Portfolio** | Moje osobní stránka, projekty a blog | [vosoone.cz](https://vosoone.cz) |
-| ☀️ **Počasí App** | Aplikace pro předpověď počasí (OpenWeatherMap + Windy API) | [vosoone.cz/pocasi](https://vosoone.cz/pocasi) |
+| ☀️ **Počasí App** | Aplikace pro předpověď počasí (OpenWeatherMap + Windy API) - starší | [vosoone.cz/pocasi](https://pocasi.vosoone.cz/) |
 | 🧱 **3D tiskové projekty** | Modely, kolekce, návody | [printables.com/@Vosoone](https://www.printables.com/%40Vosoone_1929383) |
 
 ---
@@ -50,9 +50,9 @@ Mám rád čistý kód, přehlednou strukturu a rychlost. Občas se pouštím i 
 
 ### 🔗 Kontakt
 <p align="center">
-  🌐 <a href="https://vosoone.cz">vosoone.cz</a> • 
+  🌐 <a href="https://vosoone.cz" target="_blank">vosoone.cz</a> • 
   🐙 <a href="https://github.com/Vosoone">github.com/Vosoone</a> • 
-  🎨 <a href="https://www.printables.com/@Vosoone_1929383">Printables</a>
+  🎨 <a href="https://www.printables.com/@Vosoone_1929383" target="_blank">Printables</a>
 </p>
 
 ---
@@ -60,7 +60,11 @@ Mám rád čistý kód, přehlednou strukturu a rychlost. Občas se pouštím i 
 > _„Nejde jen o to tvořit. Jde o to tvořit věci, které fungují, vypadají skvěle a mají duši.“_  
 > — Vojta (Vosoone)
 
+
 ---
+---
+---
+
 
 ## 🇬🇧 EN
 
@@ -106,9 +110,9 @@ Sometimes I also dive into **PHP backend** and **MySQL databases** — because u
 
 ### 🔗 Contact
 <p align="center">
-  🌐 <a href="https://vosoone.cz">vosoone.cz</a> • 
+  🌐 <a href="https://vosoone.cz" target="_blank">vosoone.cz</a> • 
   🐙 <a href="https://github.com/Vosoone">github.com/Vosoone</a> • 
-  🎨 <a href="https://www.printables.com/@Vosoone_1929383">Printables</a>
+  🎨 <a href="https://www.printables.com/@Vosoone_1929383" target="_blank">Printables</a>
 </p>
 
 ---
