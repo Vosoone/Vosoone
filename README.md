@@ -1,39 +1,56 @@
-# Vosoone  
-*Web / 3D tisk / Technologie / Programování*
-
-[![Vosoone Logo – placeholder](https://via.placeholder.com/150)](#)
-
-## O mně  
-Jmenuji se **Vojta** (alias *Vosoone*) a jsem nadšenec do technologií, programování, 3D tisku a sportu. Žiju v České republice a propojuji své koníčky s tvůrčí prací — vytvářím moderní weby, webové aplikace i 3D tiskové projekty, zároveň se sportem udržuji svoji mysl i tělo v chodu.
-
-## Co dělám  
-- **Webové stránky** & webové aplikace: responzivní, moderní, uživatelsky přívětivé. :contentReference[oaicite:0]{index=0}  
-- **Grafický design**: vizuální identita, loga, bannery, upoutávky. :contentReference[oaicite:1]{index=1}  
-- **3D tisk & projekty**: modelování, tisk, sdílení. :contentReference[oaicite:2]{index=2}  
-- **SEO & marketing**: základní optimalizace pro vyhledávače, pomoc s propagací. :contentReference[oaicite:3]{index=3}
-
-## Projekty  
-- **Osobní portfolio**: [vosoone.cz](https://vosoone.cz) – prezentace mých služeb, projektů a technologií. :contentReference[oaicite:4]{index=4}  
-- **3D tisková komunita**: Zakladatel CZ/SK Discord serveru o 3D tisku. :contentReference[oaicite:5]{index=5}  
-- **Webová aplikace „Počasí“**: Aplikace využívající data z OpenWeatherMap a Windy. :contentReference[oaicite:6]{index=6}
-
-## Technologie & nástroje  
-- HTML, CSS, JavaScript, moderní frameworky  
-- 3D tisk, STL modely, parametry tisku  
-- Grafický software (např. Photoshop, Canva)  
-- Vývojová prostředí (např. Visual Studio Code)  
-- Sport & kondice: fotbal, horská cyklistika, běh, posilování — protože technologie + sport = energie!
-
-## Kontakt  
-- 🌐 Web: [vosoone.cz](https://vosoone.cz)  
-- 🐙 GitHub: [github.com/Vosoone](https://github.com/Vosoone) :contentReference[oaicite:7]{index=7}  
-- 📺 Printables: [@Vosoone](https://www.printables.com/%40Vosoone_1929383) :contentReference[oaicite:8]{index=8}  
+<h1 align="center">👋 Ahoj, já jsem Vojta — <a href="https://vosoone.cz" target="_blank">Vosoone</a></h1>
+<h3 align="center">Frontend developer • Webdesigner • 3D tiskař • Sportovec</h3>
 
 ---
 
-> *„Nejen vytvářet věci — ale tvořit je tak, aby fungovaly, měly smysl a bavily.“*
+### 💡 O mně
+Jsem **frontend vývojář** z České republiky. Mám rád moderní technologie, webdesign, 3D tisk a tvoření věcí, které mají smysl.  
+Miluju čistý kód, rychlé weby a design, který zaujme.  
+👉 Občas si hraju i s **PHP backendem** a **MySQL databázemi**, protože rozumět celému stacku se prostě hodí.
 
-Díky, že ses sem podíval. Pokud se ti některý z mých projektů líbí nebo máš chuť spolupracovat — ozvi se!
+---
 
+### 🧠 Technologie, se kterými pracuju
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,nodejs,git,vscode,figma,photoshop" />
+</p>
 
+---
 
+### 🚀 Co dělám
+- 🖥️ **Tvořím weby a webové aplikace** — moderní, rychlé a responzivní.  
+- 🎨 **Dělám grafiku a design** — loga, bannery, vizuály.  
+- 🧱 **3D tisknu a modeluju** — projekty sdílím i s komunitou.  
+- ⚙️ **Pracuju s PHP/MySQL** — jednoduché API, formuláře, databáze.  
+- 📈 **Učím se a posouvám** — frontend i backend, aby projekty dávaly smysl od A do Z.
+
+---
+
+### 🧩 Moje projekty
+| Projekt | Popis | Odkaz |
+|----------|--------|--------|
+| 🌍 **Portfolio** | Moje osobní stránka, projekty a blog | [vosoone.cz](https://vosoone.cz) |
+| ☀️ **Počasí App** | Webová aplikace pro předpověď počasí (OpenWeatherMap + Windy API) | [vosoone.cz/pocasi](https://vosoone.cz/pocasi) |
+| 🧰 **3D tiskové projekty** | Modely, kolekce, návody | [printables.com/@Vosoone](https://www.printables.com/%40Vosoone_1929383) |
+
+---
+
+### ⚡ Statistika
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vosoone&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vosoone&layout=compact&theme=radical" alt="Top languages" height="150"/>
+</p>
+
+---
+
+### 🔗 Kontakt
+<p align="center">
+  🌐 <a href="https://vosoone.cz">vosoone.cz</a> • 
+  🐙 <a href="https://github.com/Vosoone">github.com/Vosoone</a> • 
+  🎨 <a href="https://www.printables.com/@Vosoone_1929383">Printables</a>
+</p>
+
+---
+
+> _„Nejde jen o to tvořit. Jde o to tvořit věci, které fungují, vypadají skvěle a mají duši.“_  
+> — Vojta (Vosoone)
