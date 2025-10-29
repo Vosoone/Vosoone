@@ -1,63 +1,39 @@
-# 👋 Ahoj, jsem Vojta!
+# Vosoone  
+*Web / 3D tisk / Technologie / Programování*
 
-## 🇨🇿 O mně
-Ahoj! Jsem nadšenec do technologií z České republiky, se zájmem o **3D tisk**, **programování** a **webový vývoj**. Svět počítačů a mobilních technologií mě fascinuje už od mala, a proto jsem se rozhodl tvořit vlastní aplikace a webové stránky.
+[![Vosoone Logo – placeholder](https://via.placeholder.com/150)](#)
 
-💡 **Můj cíl:** Vytvářet moderní, interaktivní a uživatelsky přívětivé webové aplikace, které nejen dobře vypadají, ale i skvěle fungují. Neustále se učím nové technologie a sleduji trendy v oblasti vývoje webu a softwaru.
+## O mně  
+Jmenuji se **Vojta** (alias *Vosoone*) a jsem nadšenec do technologií, programování, 3D tisku a sportu. Žiju v České republice a propojuji své koníčky s tvůrčí prací — vytvářím moderní weby, webové aplikace i 3D tiskové projekty, zároveň se sportem udržuji svoji mysl i tělo v chodu.
 
-🛠️ **Používané technologie:**
-- HTML5, CSS3, JavaScript (ES6+)
-- Node.js, Express.js
-- React.js, Next.js
-- MongoDB, PostgreSQL, MySQL
-- 3D tisk (modelování pomocí Fusion 360 a tisk)
-- Git & GitHub pro verzování a spolupráci
-- Tailwind CSS pro rychlé stylování
+## Co dělám  
+- **Webové stránky** & webové aplikace: responzivní, moderní, uživatelsky přívětivé. :contentReference[oaicite:0]{index=0}  
+- **Grafický design**: vizuální identita, loga, bannery, upoutávky. :contentReference[oaicite:1]{index=1}  
+- **3D tisk & projekty**: modelování, tisk, sdílení. :contentReference[oaicite:2]{index=2}  
+- **SEO & marketing**: základní optimalizace pro vyhledávače, pomoc s propagací. :contentReference[oaicite:3]{index=3}
 
-🔭 **Aktuálně pracuji na:**
-- Vývoji osobního webu **[vosoone.cz](https://vosoone.cz)** zaměřeného na technologie, 3D tisk a programování
-- Nástroji pro hodnocení výkonu počítačových komponent v hrách **PC Performance Evaluator**
-- **Kalkulačce ceny 3D modelů** s funkcí přizpůsobení parametrů tisku a přesného výpočtu nákladů (**[Odkaz na kalkulačku](https://vosoone.cz/3dcalculator)**)
-- Webové stránce s informacemi o počasí **[vosoone.cz/pocasi](https://vosoone.cz/pocasi)**
+## Projekty  
+- **Osobní portfolio**: [vosoone.cz](https://vosoone.cz) – prezentace mých služeb, projektů a technologií. :contentReference[oaicite:4]{index=4}  
+- **3D tisková komunita**: Zakladatel CZ/SK Discord serveru o 3D tisku. :contentReference[oaicite:5]{index=5}  
+- **Webová aplikace „Počasí“**: Aplikace využívající data z OpenWeatherMap a Windy. :contentReference[oaicite:6]{index=6}
 
----
+## Technologie & nástroje  
+- HTML, CSS, JavaScript, moderní frameworky  
+- 3D tisk, STL modely, parametry tisku  
+- Grafický software (např. Photoshop, Canva)  
+- Vývojová prostředí (např. Visual Studio Code)  
+- Sport & kondice: fotbal, horská cyklistika, běh, posilování — protože technologie + sport = energie!
 
-## 🏆 Mé Projekty
-
-### 🌐 [Vosoone.cz](https://vosoone.cz)
-Osobní web zaměřený na technologie, 3D tisk a programování. Na této stránce sdílím své projekty, články a další zdroje spojené s mými zájmy.
-
-### 💰 [Kalkulačka ceny 3D modelů](https://vosoone.cz/3dcalculator)
-Jednoduchý a přesný nástroj na výpočet nákladů spojených s 3D tiskem. Stačí zadat parametry tisku a kalkulačka vypočítá celkovou cenu včetně materiálu, energie a amortizace tiskárny.
-
-### ☀️ [Počasí](https://vosoone.cz/pocasi)
-Webová stránka s informacemi o počasí.
+## Kontakt  
+- 🌐 Web: [vosoone.cz](https://vosoone.cz)  
+- 🐙 GitHub: [github.com/Vosoone](https://github.com/Vosoone) :contentReference[oaicite:7]{index=7}  
+- 📺 Printables: [@Vosoone](https://www.printables.com/%40Vosoone_1929383) :contentReference[oaicite:8]{index=8}  
 
 ---
 
-## 🛠️ Nástroje a technologie, které používám
-| Technologie      | Popis                                          |
-|------------------|------------------------------------------------|
-| 🖥️ HTML5         | Tvorba strukturovaného obsahu na webu          |
-| 🎨 CSS3          | Stylování webových stránek a responzivní design |
-| ⚙️ JavaScript    | Dynamické a interaktivní prvky na webu          |
-| 🌐 MySQL         | Dotabáze pro systematické ukládání dat          |
-| 🛠️ Tailwind CSS  | Rychlé a moderní stylování                     |
-| 🗄️ MongoDB       | NoSQL databáze pro flexibilní ukládání dat     |
-| 🖌️ 3D tisk       | Navrhování a tisk modelů pomocí Fusion 360      |
-| 💾 Git & GitHub  | Verzování kódu a spolupráce na projektech       |
+> *„Nejen vytvářet věci — ale tvořit je tak, aby fungovaly, měly smysl a bavily.“*
 
----
+Díky, že ses sem podíval. Pokud se ti některý z mých projektů líbí nebo máš chuť spolupracovat — ozvi se!
 
-## 🔗 Odkazy
-- 🌍 [Osobní web](https://vosoone.cz)
-- 💼 [Youtube](https://www.youtube.com/@vosoone)
-- 🔍 [Discord server](https://discord.gg/uREdrVvfcs)
-- 🧊 [Printables](https://www.printables.com/@Vosoone_1929383)
-- 💰 [Kalkulačka ceny 3D modelů](https://vosoone.cz/3d-cena)
-- ☀️ [Počasí](https://vosoone.cz/pocasi)
 
----
-
-*Díky, že jsi navštívil můj profil! Pokud máš zájem o spolupráci nebo se chceš jen na něco zeptat, neváhej mě kontaktovat!*
 
